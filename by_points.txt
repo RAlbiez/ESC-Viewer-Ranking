@@ -1,0 +1,26 @@
+1.	366	Finland
+2.	236	Sweden
+3.	212	Norway
+4.	184	Ukraine
+5.	174	Italy
+6.	173	Israel
+7.	109	Croatia
+8.	81	Poland
+9.	76	Moldova
+10.	58	Cyprus
+11.	55	Belgium
+12.	53	Albania
+13.	49	France
+14.	46	Lithuania
+15.	45	Armenia
+16.	45	Slovenia
+17.	35	Czechia
+18.	31	Switzerland
+19.	22	Estonia
+20.	21	Australia
+21.	16	Austria
+22.	16	Portugal
+23.	16	Serbia
+24.	15	Germany
+25.	9	United Kingdom
+26.	3	Spain

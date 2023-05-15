@@ -1,0 +1,26 @@
+1.	2.08	Finland
+2.	4.78	Sweden
+3.	5.44	Norway
+4.	6.81	Israel
+5.	7.03	Ukraine
+6.	7.14	Italy
+7.	10.33	Croatia
+8.	10.61	Moldova
+9.	11.19	France
+10.	11.22	Poland
+11.	13.11	Cyprus
+12.	13.25	Czechia
+13.	14.06	Slovenia
+14.	14.36	Switzerland
+15.	14.53	Belgium
+16.	15.58	Germany
+17.	15.92	Austria
+18.	16.22	Armenia
+19.	16.5	Lithuania
+20.	16.72	Albania
+21.	16.92	Australia
+22.	18.08	Estonia
+23.	18.78	Serbia
+24.	20.22	Spain
+25.	20.53	Portugal
+26.	20.56	United Kingdom
